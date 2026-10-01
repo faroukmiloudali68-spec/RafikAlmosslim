@@ -79,7 +79,7 @@ export default function Footer({ onNavigate }: FooterProps) {
             {DEVELOPER_PHRASE}
           </p>
           <p className="text-muted-c text-sm">
-            {PROJECT_NAME} v2.0 — جميع الحقوق محفوظة لأصحاب المصادر الأصليين
+            {PROJECT_NAME} v2.0
           </p>
         </div>
       </div>
